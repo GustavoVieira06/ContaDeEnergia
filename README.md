@@ -1,6 +1,6 @@
 
 # ContaDeEnergia C#
-O sistema consiste em uma aplicação desktop para o cálculo, armazenamento e consulta de faturas de energia elétrica.
+O sistema consiste em uma aplicação WidnowsForm para o cálculo, armazenamento e consulta de faturas de energia elétrica.
 O software deve gerenciar dois tipos de perfis, Residencial e Comercial,  cada um com regras de tributação distintas:
 
 Taxa fixa de luz -> R$ 9,25
